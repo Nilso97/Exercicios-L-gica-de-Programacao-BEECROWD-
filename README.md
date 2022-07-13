@@ -1,1 +1,1 @@
-# Exercicios-L-gica-de-Programacao-BEECROWD-
+## Resolução dos exercícios de Lógica de Programação - BEECROWD
